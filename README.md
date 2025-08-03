@@ -12,9 +12,12 @@ One of the ways we could possibly reduce these unfortunate rate is by helping pe
 
 Once again, this is a step towards the big problem.
 
-## Design
+## Conceptialization 
+The system was initally planned to incorporate a Raspberry Pi 5 as the main control system, an ultrasonic sensor to record the distance of the car (HRSC04), and an electronic buzzer.
+![Alt text]()
 
-Body and framework for this system was using CAD via. Fusion 360. Wire and component management and connections were managed on graphical sheet paper.
+
+## Design
 
 ## Testing
 
