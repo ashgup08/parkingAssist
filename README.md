@@ -16,8 +16,6 @@ Once again, this is a step towards the big problem.
 The system was initally planned to incorporate a Raspberry Pi 5 as the main control system, an ultrasonic sensor to record the distance of the car (HRSC04), and an electronic buzzer.
 ![Alt text](https://github.com/ashgup08/parkingAssist/blob/main/prototype1Concept.png)
 
-###Pins
-
 
 ## Design
 
